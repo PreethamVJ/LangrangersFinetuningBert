@@ -1,7 +1,3 @@
-You're absolutely right - I was referring to the 5 hand-picked test examples (which isn't a real metric). Here's a faithful report based ONLY on your actual results:
-
----
-
 # PubMed BERT Abstract Sentence Classification
 
 
