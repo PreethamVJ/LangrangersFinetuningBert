@@ -414,7 +414,7 @@ The model demonstrates the effectiveness of transfer learning with BERT for doma
 
 ---
 
-## Technical Specifications
+## 14. Technical Specifications
 
 **Environment:**
 - Framework: PyTorch
